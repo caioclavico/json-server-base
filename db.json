@@ -6,6 +6,50 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "caio@gmail.com",
+      "password": "$2a$10$pgAydju2HNIf8.rmUA.sueGmmcXLQ.20KWeYx21O1BaJZyZQmFT9K",
+      "id": 2
+    },
+    {
+      "email": "caio2@gmail.com",
+      "password": "$2a$10$yJqxi5VJTEixHf5Zhp9J8e.cHXz49RoJCx0RDz2rLl7Q1pOOTg6Ki",
+      "id": 3
+    }
+  ],
+  "habits": [
+    {
+      "title": "Academia",
+      "category": "Esporte",
+      "frequency": "Diário",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "aulas de dança",
+      "category": "Lazer",
+      "frequency": "Diário",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "goals": [
+    {
+      "title": "Emagrecer 10kg",
+      "difficulty": "Dificil",
+      "achieved": false,
+      "how_much_achieved": 50,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "jogar bola com filho",
+      "difficulty": "Fácil",
+      "achieved": false,
+      "how_much_achieved": 50,
+      "userId": 2,
+      "id": 2
     }
   ]
 }
